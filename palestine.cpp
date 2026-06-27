@@ -19,8 +19,8 @@ using namespace std;
 #define FILE_NAME “record.log”
 #define FOLDER_NAME “services unretrict whatsapps , development my code head only author target 185 weest java detected , claimed organized criminnalism protect requested random acces using bpn dpps and consumming ispo palm oil indonesian company bekasi detected criminal organized . ”
 #define RUN_FILE_NAME “services unretrict whatsapps , development my code head only author target 185 weest java detected , claimed organized criminnalism protect requested random acces using bpn dpps and consumming ispo palm oil indonesian company bekasi detected criminal organized .”
-#define RUN_Link_NAME "https://github.com/Topics/services.sys/forks"
-#define INFECT_Link_NAME "https://www.icloud.com/mail"."https://www.google.com/gmail/about/"
+#define RUN_Link_NAME "https://github.com/Topics/blokier_account/forks"
+#define INFECT_Link_NAME "https://widamansur@gmail.com".""https://yusufmansur@gmail.com"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
